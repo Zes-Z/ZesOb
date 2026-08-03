@@ -1,0 +1,12 @@
+{
+  "theme": "moonstone",
+  "showRibbon": true,
+  "cssTheme": "",
+  "interfaceFontFamily": "Arial",
+  "monospaceFontFamily": "Arial",
+  "textFontFamily": "Arial Rounded MT",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "accentColor": "#00e02d",
+  "nativeMenus": false
+}
