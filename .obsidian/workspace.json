@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Ling. temp.md",
+                "file": "file:/Users/zes/ZesProjects/Ling/小论文/鳗鱼句先行研究综述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ling. temp"
+              "title": "鳗鱼句先行研究综述"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.4483299255371
   },
   "right": {
     "id": "8f9671370a9a6032",
