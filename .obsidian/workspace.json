@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9415f3cd7201141",
+        "id": "082f572b56957f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "4568df9be8f5ef49",
+            "id": "9ad4413cf1af63c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Computer Architecture.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Computer Architecture"
+              "title": "新标签页"
             }
           }
         ]
@@ -191,8 +187,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4568df9be8f5ef49",
+  "active": "9ad4413cf1af63c9",
   "lastOpenFiles": [
+    "file:/Users/zes/ZesProjects/astro-frame-shift-main/README.md",
     "欢迎.md",
     "CS/Computer Architecture.md",
     "CS/Algorithm.md",
