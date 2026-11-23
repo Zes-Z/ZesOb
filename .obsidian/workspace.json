@@ -11,10 +11,14 @@
             "id": "9ad4413cf1af63c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "file:/Users/zes/Downloads/handcraft_japanese_brand_website_blueprint.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "handcraft_japanese_brand_website_blueprint"
             }
           }
         ]
@@ -189,6 +193,7 @@
   },
   "active": "9ad4413cf1af63c9",
   "lastOpenFiles": [
+    "file:/Users/zes/Downloads/handcraft_japanese_brand_website_blueprint.md",
     "file:/Users/zes/ZesProjects/astro-frame-shift-main/README.md",
     "欢迎.md",
     "CS/Computer Architecture.md",
